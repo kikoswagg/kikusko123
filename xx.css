@@ -1,0 +1,21 @@
+table{
+  margin: 0;
+  font-family: Arial, sans-serif;
+  background-color: #D20103;
+  color: red;
+  flex-direction: column;
+}
+h1{
+    margin: 5;
+    font-family: Arial, sans-serif;	
+	background-color: #7FACAF;
+    color: blue;
+    flex-direction: column;
+}
+td{
+    margin: 3;
+    font-family: Arial, sans-serif;	
+	background-color: #B258CA;
+    color: purple;
+    flex-direction: column;
+}
